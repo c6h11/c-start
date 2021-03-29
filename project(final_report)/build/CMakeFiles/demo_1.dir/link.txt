@@ -1,0 +1,1 @@
+g++    -std=c++14 -march=native -O3 -pthread   CMakeFiles/demo_1.dir/create_data.o CMakeFiles/demo_1.dir/main.o CMakeFiles/demo_1.dir/data_read.o  -o demo_1 -rdynamic -lboost_serialization 
